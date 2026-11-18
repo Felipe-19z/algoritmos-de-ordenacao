@@ -1,4 +1,6 @@
 
+package ed2.projeto.algoritmosordenacao;
+
 public class Aluno {
 
     int matricula;
